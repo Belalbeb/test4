@@ -1,0 +1,20 @@
+json npm project consist two element
+1) dependency: element react depend on it to do his work //its necssery to do react work.
+2) scripts:groub of command to help you in npm such as "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject".
+
+
+    what npm ?
+    assume you make directory and you want to use npm to make the use eay
+    such as download some packages as bootstrap and jquery just you npm start 
+    all dependency will attach to your folder.
+
+just you see src in any project you must know that your code will write here.
+
+inside render you can type html code and will appear يعني اللي موجود داخله هو اللي هيكون موجود في الصفحة
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(<h1>Hello, world!</h1>);
+JSK it mean that we write javascript and html 
+any dynamic variable write with {}
